@@ -1,0 +1,50 @@
+{
+	"details":{
+		"image":"image1.png",
+		"name":"bhavani",
+		"phno":"+91-9466546576",
+		"email":"bhavanin.reddy2000@gmail.com",
+		"address":"vignan's nirula."
+	},
+	"career":{
+		"info":"To become java developer"
+	},
+	"educationalqualification":[
+		{
+			"qualification":"B.tech",
+			"institute":"vignan's nirula",
+			"year":"2016-2020",
+			"percentage":"89"
+	},
+	{
+		"qualification":"inter",
+		"institute":"scholars",
+		"year":"2014-2016",
+		"percentage":"96"
+	},
+	{
+		"qualification":"10th",
+		"institute":"scholars",
+		"year":"2013-2014",
+		"percentage":"95"
+	}
+],
+	"technicalskills":[
+		{
+		"title":"programming languages",
+		"info":["c","c++","java","python"]
+		},
+		{
+			"title":"operatingsystems",
+			"info":["macos","windows","linux"]
+		}
+	],
+	"achievements":[
+		{
+			"title1":" got first rank in our college"
+		},	
+		{
+			"title1":"certified by apssdc"
+		}
+	]
+}

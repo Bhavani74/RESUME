@@ -1,0 +1,177 @@
+.main{
+	border: 2px solid red;
+	padding:2%;
+	margin:2%;
+	display:flex;
+	flex-direction:row;
+	
+}
+.left{
+	border:2px solid blue;
+	padding:2%;
+	margin:2%;
+	text-align:center;
+	width:30%;
+	border-radius:10%;
+}
+.right{
+	border:2px solid green;
+	padding:2%;
+	margin:2%;
+	width:60%;
+	border-radius:10%;
+}
+#number{
+	color:green;
+	font size: 40px;
+}
+p{
+	color:brown;
+	font-size: 25px;
+}
+.table1{
+	width:90%;
+	overflow-x:auto;
+}
+.left img{
+	width:30%;
+	border:4px solid green;
+	box-shadow:12px 20px 18px black;
+	border-radius:20%;
+}
+a{
+	word-wrap:break-word;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px){
+	.main{
+	border: 2px solid black;
+	padding:2%;
+	margin:2%;
+	display:flex;
+	flex-direction:column;
+	
+}
+.left{
+	border:2px solid blue;
+	padding:2%;
+	margin:2%;
+	text-align:center;
+	width:90%;
+	border-radius:10%;
+	background-color:pink;
+}
+.right{
+	border:2px solid blue;
+	padding:2%;
+	margin:2%;
+	width:90%;
+	border-radius:10%;
+	background-color:pink;
+}
+#number{
+	color:green;
+	font size: 40px;
+}
+p{
+	color:brown;
+	font-size: 25px;
+}
+.left img{
+	width:30%;
+	border:4px solid green;
+	box-shadow:12px 20px 18px black;
+	border-radius:20%;
+}
+a{
+	word-wrap:break-word;
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 768px){
+	.main{
+	border: 2px solid yellow;
+	padding:2%;
+	margin:2%;
+	display:flex;
+	flex-direction:row;
+	
+}
+.left{
+	border:2px solid red;
+	padding:2%;
+	margin:2%;
+	text-align:center;
+	width:40%;
+	border-radius:10%;
+	background-color:cyan;
+}
+.right{
+	border:2px solid red;
+	padding:2%;
+	margin:2%;
+	width:40%;
+	border-radius:10%;
+	background-color:cyan;
+}
+#number{
+	color:green;
+	font size: 40px;
+}
+p{
+	color:brown;
+	font-size: 25px;
+}
+.left img{
+	width:30%;
+	border:4px solid green;
+	box-shadow:12px 20px 18px black;
+	border-radius:20%;
+}
+a{
+	word-wrap:break-word;
+}
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px){
+	.main{
+	border: 2px solid red;
+	padding:2%;
+	margin:2%;
+	display:flex;
+	flex-direction:row;
+	
+}
+.left{
+	border:2px solid violet;
+	padding:2%;
+	margin:2%;
+	text-align:center;
+	width:35%;
+	border-radius:10%;
+	background-color:red;
+}
+.right{
+	border:2px solid violet;
+	padding:2%;
+	margin:2%;
+	width:35%;
+	border-radius:10%;
+	background-color:red;
+}
+#number{
+	color:green;
+	font size: 40px;
+}
+p{
+	color:brown;
+	font-size: 25px;
+}
+.left img{
+	width:30%;
+	border:4px solid green;
+	box-shadow:12px 20px 18px black;
+	border-radius:20%;
+}
+a{
+	word-wrap:break-word;
+}
+}
